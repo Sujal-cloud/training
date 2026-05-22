@@ -1,0 +1,16 @@
+h1{
+    color: red;
+    text-align: center;
+    text-decoration:line-through;
+}
+
+p{
+    color: blue;
+    background-color: rgb(241, 241, 177);
+    text-align: left;
+    border: red solid 2px;
+    border-radius: 10px;
+    padding: 10px;
+    font-weight:900;
+    font-family:cursive;
+}
